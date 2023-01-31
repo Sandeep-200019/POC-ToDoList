@@ -2,7 +2,7 @@ public class ToDoList{
 	
 	public static void main(String[] args) {
 		
-		MainMenu list = new MainMenu();
+		MainMenu2 list = new MainMenu2();
 		list.Menu();
 	}
 }
